@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ThomasHeiden
+- 👀 I’m interested in CyberSecurity
+- 🌱 I’m currently learning CyberSecurity at Avans+ & TryHackME
+- 💞️ I’m looking to collaborate on CyberSecurity things
+- 📫 How to reach me via e-mail or message
